@@ -5,3 +5,5 @@ All elements in this game are publicly posted or free elements, but some element
 Due to size reasons, you need to download unityplayer.dll yourself.
 
 Enjoy yourself~
+
+Maybe opensource one day.
