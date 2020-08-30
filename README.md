@@ -1,9 +1,9 @@
-# Unity-Game-unity-chan-eat-coins
-As title said.
-All elements in this game are publicly posted or free elements, but some elements is prohibited in secondary posting, if you download this game please noticed this.
+# Two things you have to know before download this game
 
-Due to size reasons, you need to download unityplayer.dll yourself.
+1.All elements in this game are free or posted publicly, however, some of them are prohibited from re-uploading.
 
-Enjoy yourself~
+2.Limited by size, you'll need to download unityplayer.dll by yourself.
 
-Maybe opensource one day.
+Please enjoy yourself~
+
+ps: The source code may be open some day.
